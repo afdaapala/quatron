@@ -89,25 +89,10 @@
 
 <!-- Begin page content -->
 <main class="flex-shrink-0">
-    <div class="container">
-    <div class="row mb-3 mt-6">
-      <div class="col-6 themed-grid-col">
-      
-        <img="http://satelit.bmkg.go.id/IMAGE/HIMA/H08_EH_Indonesia.png" alt="display">
-      </div>
-      <div class="col-6 themed-grid-col">
-        
-      </div>
-    </div>
-    <div class="row mb-3">
-      <div class="col-6 themed-grid-col">
-        
-      </div>
-      <div class="col-6 themed-grid-col">
-        
-      </div>
-    </div>
-    </div>
+  <div class="container xxl mt-6">
+    <p class="lead"><img src="https://inderaja.bmkg.go.id/IMAGE/HIMA/H08_EH_Indonesia.png?id=77386p2e12emuaqk738stc6"></p>
+    <p>Back to <a href="/docs/5.0/examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+  </div>
 </main>
 
 <footer class="footer mt-auto py-3 bg-light">
